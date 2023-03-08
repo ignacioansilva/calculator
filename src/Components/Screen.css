@@ -1,0 +1,9 @@
+.screen {
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    font-size: 5rem;
+    padding: 0 5px;
+    padding-top: 7px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
